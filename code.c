@@ -2,7 +2,8 @@
 int main()
 
 {
-	printf("there\n");
+	printf("for more info pull changes from github\n");
+	
 	return 0;
 	
 }
